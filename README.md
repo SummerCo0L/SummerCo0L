@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working as a Data Scientist to support business stakeholders/users by developing end-to-end analytics solutions.
+- 🔭 I'm currently working as a Data Scientist supporting business stakeholders/users by developing end-to-end analytics solutions.
 - 🌱 Showcasing some of my accomplishments by replicating solutions on fictitious/ publicly available datasets.
 
 <!--
