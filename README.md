@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working as a Data Scientist supporting business stakeholders/users by developing end-to-end analytics solutions.
-- 🌱 Showcasing some of my accomplishments at work by replicating the solutions on fictitious/ publicly available datasets.
+- 🌱 Showcasing some of the work & POCs' by replicating solutions on fictitious/ publicly available datasets.
 
 <!--
 **SummerCo0L/SummerCo0L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
